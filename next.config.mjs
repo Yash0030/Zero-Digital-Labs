@@ -1,8 +1,13 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  outputFileTracingIncludes: {
-    '/[lab]/download/[filename]': ['./data/**/*'],
-    '/api/download/[lab]/[filename]': ['./data/**/*'],
+  experimental: {
+    outputFileTracingIncludes: {
+      '/api/*': ['./data/**/*'],
+      '/labA/download/*': ['./data/**/*'],
+      '/labB/download/*': ['./data/**/*'],
+      '/labC/download/*': ['./data/**/*'],
+    },
   },
 };
+
 export default nextConfig;
