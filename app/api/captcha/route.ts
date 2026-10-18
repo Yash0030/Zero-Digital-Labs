@@ -1,0 +1,4 @@
+import { NextRequest,NextResponse } from 'next/server';
+import { isLab,LABS } from '@/lib/labs';
+import { checkChallenge,clearChallenge,setChallenge,setSession,makeChallenge,getPendingLogin,clearPendingLogin } from '@/lib/security';
+export async function POST(req:NextRequest){const form=await req.formData();const lab=String(form.get('lab')||'');const answer=String(form.get('answer')||'');if(!isLab(lab)||!LABS[lab].captcha)return NextResponse.redirect(new URL('/',req.url),303);const pending=getPendingLogin(lab);if(!pending)return NextResponse.redirect(new URL(`/${lab}/login?error=session`,req.url),303);if(!checkChallenge(lab,answer)){const next=NextResponse.redirect(new URL(`/${lab}/captcha?error=wrong`,req.url),303);const challenge=makeChallenge(lab);setChallenge(lab,challenge.answer);return next;}clearChallenge(lab);setSession(pending.patientId,lab);clearPendingLogin(lab);return NextResponse.redirect(new URL(`/${lab}/reports`,req.url),303);}

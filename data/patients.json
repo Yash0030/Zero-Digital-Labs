@@ -1,0 +1,422 @@
+[
+  {
+    "id": "PT001",
+    "name": "Aarav Roy",
+    "age": 33,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt001",
+      "labB": "pt001",
+      "labC": "pt001"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT002",
+    "name": "Reyansh Reddy",
+    "age": 61,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt002",
+      "labB": "pt002",
+      "labC": "pt002"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT003",
+    "name": "Gopal Chauhan",
+    "age": 20,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt003",
+      "labB": "pt003",
+      "labC": "pt003"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT004",
+    "name": "Aditya Malhotra",
+    "age": 32,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt004",
+      "labB": "pt004",
+      "labC": "pt004"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT005",
+    "name": "Mohan Chopra",
+    "age": 63,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt005",
+      "labB": "pt005",
+      "labC": "pt005"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT006",
+    "name": "Anita Sharma",
+    "age": 59,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt006",
+      "labB": "pt006",
+      "labC": "pt006"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT007",
+    "name": "Anita Sharma-Rao",
+    "age": 62,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt007",
+      "labB": "pt007",
+      "labC": "pt007"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT008",
+    "name": "Riya Bhat",
+    "age": 55,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt008",
+      "labB": "pt008",
+      "labC": "pt008"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT009",
+    "name": "Rohan Mehta",
+    "age": 35,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt009",
+      "labB": "pt009",
+      "labC": "pt009"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT010",
+    "name": "Rohit Mehta",
+    "age": 69,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt010",
+      "labB": "pt010",
+      "labC": "pt010"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT011",
+    "name": "Priya Nair",
+    "age": 73,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt011",
+      "labB": "pt011",
+      "labC": "pt011"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT012",
+    "name": "Priya Nayar",
+    "age": 18,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt012",
+      "labB": "pt012",
+      "labC": "pt012"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT013",
+    "name": "Kiran Desai",
+    "age": 66,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt013",
+      "labB": "pt013",
+      "labC": "pt013"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT014",
+    "name": "Kiran Dessai",
+    "age": 69,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt014",
+      "labB": "pt014",
+      "labC": "pt014"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT015",
+    "name": "Rahul Naidu",
+    "age": 35,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt015",
+      "labB": "pt015",
+      "labC": "pt015"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT016",
+    "name": "Ishaan Naidu",
+    "age": 24,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt016",
+      "labB": "pt016",
+      "labC": "pt016"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT017",
+    "name": "Manish Reddy",
+    "age": 40,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt017",
+      "labB": "pt017",
+      "labC": "pt017"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT018",
+    "name": "Swati Das",
+    "age": 69,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt018",
+      "labB": "pt018",
+      "labC": "pt018"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT019",
+    "name": "Sanjay Mukherjee",
+    "age": 25,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt019",
+      "labB": "pt019",
+      "labC": "pt019"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT020",
+    "name": "Diya Ghosh",
+    "age": 36,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt020",
+      "labB": "pt020",
+      "labC": "pt020"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT021",
+    "name": "Pallavi Chopra",
+    "age": 63,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt021",
+      "labB": "pt021",
+      "labC": "pt021"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT022",
+    "name": "Vivaan Bose",
+    "age": 67,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt022",
+      "labB": "pt022",
+      "labC": "pt022"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT023",
+    "name": "Diya Bose",
+    "age": 73,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt023",
+      "labB": "pt023",
+      "labC": "pt023"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT024",
+    "name": "Manish Roy",
+    "age": 47,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt024",
+      "labB": "pt024",
+      "labC": "pt024"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT025",
+    "name": "Nisha Yadav",
+    "age": 40,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt025",
+      "labB": "pt025",
+      "labC": "pt025"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT026",
+    "name": "Dev Nair",
+    "age": 56,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt026",
+      "labB": "pt026",
+      "labC": "pt026"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT027",
+    "name": "Mohan Sen",
+    "age": 28,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt027",
+      "labB": "pt027",
+      "labC": "pt027"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT028",
+    "name": "Lakshmi Roy",
+    "age": 77,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt028",
+      "labB": "pt028",
+      "labC": "pt028"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT029",
+    "name": "Nikhil Mehta",
+    "age": 32,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt029",
+      "labB": "pt029",
+      "labC": "pt029"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT030",
+    "name": "Nikhil Mishra",
+    "age": 35,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt030",
+      "labB": "pt030",
+      "labC": "pt030"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT031",
+    "name": "Ishaan Thakur",
+    "age": 74,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt031",
+      "labB": "pt031",
+      "labC": "pt031"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT032",
+    "name": "Pooja Saxena",
+    "age": 43,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt032",
+      "labB": "pt032",
+      "labC": "pt032"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT033",
+    "name": "Kavya Das",
+    "age": 26,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt033",
+      "labB": "pt033",
+      "labC": "pt033"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT034",
+    "name": "Mohan Mukherjee",
+    "age": 34,
+    "sex": "M",
+    "usernames": {
+      "labA": "pt034",
+      "labB": "pt034",
+      "labC": "pt034"
+    },
+    "password": "demo123"
+  },
+  {
+    "id": "PT035",
+    "name": "Pallavi Mishra",
+    "age": 41,
+    "sex": "F",
+    "usernames": {
+      "labA": "pt035",
+      "labB": "pt035",
+      "labC": "pt035"
+    },
+    "password": "demo123"
+  }
+]
